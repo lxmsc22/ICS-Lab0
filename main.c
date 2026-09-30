@@ -1,7 +1,7 @@
 #include <stdio.h>
-
-int main()
-{
+int main() {
     // @TODO: print a sentence you want.
-    printf("Hello, world!\n");
+    char *str = "?: ";
+
+    printf("%sHello, world!\n", str);
 }
